@@ -1,4 +1,3 @@
-```markdown
 # MC Week 4 Project: Setting Up Arbitrum Sepolia Testnet and Deploying Smart Contracts
 
 ## Project Overview
@@ -46,4 +45,3 @@ contract MessageToArbitrum {
 
 ## Deployed Contract Address
 - **Arbitrum Sepolia Contract Address**: [0x919952ed242ade0382ffbf905df96c8e164f7961](https://sepolia.arbiscan.io/address/0x919952ed242ade0382ffbf905df96c8e164f7961)
-```
